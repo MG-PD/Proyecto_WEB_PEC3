@@ -951,7 +951,7 @@ input, button, label{
     flex-basis: 0;
     justify-content: space-between;   
 }
-.footer_section h4{
+.footer_section h2{
     font-family: "Oswald";
     font-weight: 400;
     font-size: 1rem;
@@ -1484,7 +1484,7 @@ input, button, label{
 .footer{
     flex-direction: column;
 }
-.footer_section h4{
+.footer_section h2{
     margin-left: 30px;
     margin-bottom: 0.5rem;
 }
@@ -2066,7 +2066,7 @@ input, button, label{
 .footer_section{
     min-width: 320px;
 }
-.footer_section h4{
+.footer_section h2{
     margin-left: 50px;
     margin-bottom: 1rem;
 }
@@ -2549,7 +2549,7 @@ input, button, label{
 .footer{
     flex-wrap: wrap;
 }
-.footer_section h4{
+.footer_section h2{
     margin-left: 50px;
     margin-bottom: 1rem;
 }
@@ -2966,7 +2966,7 @@ input, button, label{
     flex-wrap: wrap;
 }
 
-.footer_section h4{
+.footer_section h2{
     margin-left: 50px;
     margin-bottom: 1rem;
 }
@@ -3185,7 +3185,7 @@ input, button, label{
 
 /*----------------------------  FOOTER -----------------------------*/
 
-.footer_section h4{
+.footer_section h2{
     margin-left: 50px;
     margin-bottom: 1rem;
 }
