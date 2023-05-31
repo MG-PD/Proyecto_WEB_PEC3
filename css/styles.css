@@ -46,7 +46,7 @@ header{
     width: 100%;
     height: 100px;
     display: inline-flex;
-    border-bottom: 2px solid #058E3F;
+    border-bottom: 2px solid #037231;
      
   }
 .Enlaces_header{
@@ -63,7 +63,7 @@ header{
     text-decoration-line: none;
     font-size: 1.7rem;
     font-weight: 300;
-    color: #058E3F;
+    color: #037231;
     
   }
   .current a{
@@ -3041,7 +3041,7 @@ input, button, label{
     font-size: 1rem;
     line-height: 25px;
     padding-right: 20px;
-    color: #058E3F;
+    color: #037231;
     
   }
   .Carrito{
