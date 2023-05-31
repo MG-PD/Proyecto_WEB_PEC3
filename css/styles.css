@@ -1460,7 +1460,7 @@ input, button, label{
 .tienda_ofertas h3{
   text-align: center;
   font-size: 1.5rem;
-  padding-top: 1rem;
+  padding-top: 0rem;
 }
 .tienda_inicio h2{ 
   padding-top: 0.5rem;
