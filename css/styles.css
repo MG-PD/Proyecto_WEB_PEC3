@@ -754,7 +754,7 @@ input, button, label{
     padding-left: 1rem;
 }
 
-.tienda_inicio h3{
+.tienda_inicio h2{
     font-family: "Oswald";
     font-size: 1.5rem;
     font-weight: 400;
@@ -856,7 +856,7 @@ input, button, label{
     margin-right: auto;
     width: 100%;
   }
-  .ficha h3{
+  .ficha h2{
     font-family: "Oswald";
     font-size: 1.5rem;
     font-weight: 400;
@@ -1462,7 +1462,7 @@ input, button, label{
   font-size: 1.5rem;
   padding-top: 5rem;
 }
-.tienda_inicio h3{ 
+.tienda_inicio h2{ 
   padding-top: 0.5rem;
   text-align: center;  
   padding-left: 0rem;
@@ -2021,7 +2021,7 @@ input, button, label{
       gap: 0;
       flex-direction: column;
   }
-  .tienda_inicio h3{ 
+  .tienda_inicio h2{ 
     padding-top: 0.5rem;
     padding-left: 1rem;
     padding-right: 0rem;
