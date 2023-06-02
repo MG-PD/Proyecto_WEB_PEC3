@@ -748,8 +748,9 @@ input, button, label{
 }
 .tienda_hand_verde{
     font-family: "Gochi hand";
+    font-weight: 400;
     font-size: 1.1rem;
-    color: #037231;
+    color: #058E3F;
     padding-top: 2rem;
     padding-left: 1rem;
 }
@@ -3044,10 +3045,11 @@ input, button, label{
     display: inline-flex;   
   }
   .Inicio_sesion p{
+    font-weight: 400;  
     font-size: 1rem;
     line-height: 25px;
     padding-right: 20px;
-    color: #037231;
+    color: #058E3F;
     
   }
   .Carrito{
