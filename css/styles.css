@@ -62,8 +62,8 @@ header{
   header nav a{
     text-decoration-line: none;
     font-size: 1.7rem;
-    font-weight: 300;
-    color: #037231;
+    font-weight: 400;
+    color: #058E3F;
     
   }
   .current a{
@@ -173,12 +173,12 @@ header{
     color: #19535F;
 }
 .span_verde{    
-    font-weight: 600;
-    color: #037231;
+    font-weight: 400;
+    color: #058E3F;
 }
 .span_verde_contraste{
-    font-weight: 600;
-    color: #037231;
+    font-weight: 400;
+    color: #058E3F;
 }
 .span_rojo{    
     font-weight: 800;
@@ -496,8 +496,8 @@ header{
 .hand_verde{
     font-family: "Gochi hand";
     font-size: 1.2rem;
-    font-weight: 500;
-    color: #037231;
+    font-weight: 400;
+    color: #058E3F;
     padding-top: 1rem;
 }
 
