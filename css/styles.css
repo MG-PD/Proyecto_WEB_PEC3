@@ -227,7 +227,7 @@ header{
      color: #AA4465;
  }
  .h2_titulo_center:hover{
-     color: #058E3F;
+     color: #037231;
  }
  .h2_cesta{
     font-family: "Gochi hand";
@@ -2150,7 +2150,7 @@ input, button, label{
         padding-bottom: 2em;
         top: 38px;
         right:0px;
-        border-left: #058E3F 2px solid;
+        border-left: #037231 2px solid;
       } 
       header nav ul{
         position: absolute;
@@ -2634,7 +2634,7 @@ input, button, label{
         padding-bottom: 2em;
         top: 38px;
         right:0px;
-        border-left: 2px solid #058E3F;
+        border-left: 2px solid #037231;
       } 
       header nav ul{
         position: absolute;
