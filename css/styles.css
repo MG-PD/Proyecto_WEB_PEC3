@@ -46,7 +46,7 @@ header{
     width: 100%;
     height: 100px;
     display: inline-flex;
-    border-bottom: 2px solid #058E3F;
+    border-bottom: 2px solid #037231;
      
   }
 .Enlaces_header{
@@ -93,7 +93,7 @@ header{
 .presentacion h1{
     font-family: "Gochi hand";
     font-size: 3.5rem;
-    color: #058E3F;
+    color: #037231;
 }
 .h3_titulo_left{
     font-family: "Oswald";
@@ -123,7 +123,7 @@ header{
 }
 .container_ofertas_inicio h2{
     font-family: 'Oswald';
-    color: #058E3F;
+    color: #037231;
     font-size: 2rem;
     text-align: center;
     margin-top: 2rem;
@@ -236,7 +236,7 @@ header{
     font-weight: 400;
     margin-top: 3rem;
     margin-bottom: 1rem;
-    color: #058E3F; 
+    color: #037231; 
 }
 .h2_cesta:hover{
     color: #AA4465;
@@ -342,7 +342,7 @@ header{
 .span_colabora{
     font-family: "Gochi hand";
     font-size: 1.6rem;
-    color: #058E3F;
+    color: #037231;
     margin-top: 1rem;
 }
 .nosotros_4 h4{
@@ -680,7 +680,7 @@ input, button, label{
     font-weight: 600;
     border: solid 1px rgba(0,0,0,.58);
     color:  white;
-    background-color: #05853C;
+    background-color: #037231;
     border-radius: 5px;
     width: 135px;
     height: 45px;
@@ -875,7 +875,7 @@ input, button, label{
     font-family: "Gochi hand";
     text-align: center;
     font-size: 1.5rem;
-    color: #058E3F;
+    color: #037231;
     padding-bottom: 2rem;
     padding-left: 1rem;
     padding-right: 1rem;
@@ -922,7 +922,7 @@ input, button, label{
       background-color: #19535F;
   }
   .añadir_carro{
-      background-color: #05853C;
+      background-color: #037231;
   }
   .añadir_carro:hover{
       background-color: #AA4465;
@@ -1129,7 +1129,7 @@ input, button, label{
       
           font-family: "Gochi hand";
           font-size: 2rem;
-          color: #058E3F;
+          color: #037231;
           padding-left: 5px;
           padding-right: 5px;
           text-align: center;
@@ -1689,7 +1689,7 @@ input, button, label{
       
           font-family: "Gochi hand";
           font-size: 2rem;
-          color: #058E3F;
+          color: #037231;
           padding-left: 5px;
           padding-right: 5px;
           text-align: center;
@@ -2272,7 +2272,7 @@ input, button, label{
       
           font-family: "Gochi hand";
           font-size: 2rem;
-          color: #058E3F;
+          color: #037231;
           padding-left: 5px;
           padding-right: 5px;
           text-align: center;
@@ -2754,7 +2754,7 @@ input, button, label{
       
           font-family: "Gochi hand";
           font-size: 2rem;
-          color: #058E3F;
+          color: #037231;
           padding-left: 5px;
           padding-right: 5px;
           text-align: center;
@@ -3130,7 +3130,7 @@ input, button, label{
 
     font-family: "Gochi hand";
     font-size: 2.5rem;
-    color: #058E3F;
+    color: #037231;
     text-align: center;
     margin-top: auto;
     margin-bottom: auto;    
