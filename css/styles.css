@@ -685,6 +685,9 @@ input, button, label{
     width: 135px;
     height: 45px;
 }
+.enviar button:hover{
+      background-color: #AA4465;
+  }
 
 /*****************************************************************************/
 /*                                  TIENDA                                   */
